@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0209-minimum-size-subarray-sum) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
