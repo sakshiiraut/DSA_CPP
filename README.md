@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
