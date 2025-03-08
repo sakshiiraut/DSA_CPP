@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/sakshiiraut/DSA_CPP/tree/master/2610-closest-prime-numbers-in-range) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/sakshiiraut/DSA_CPP/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
