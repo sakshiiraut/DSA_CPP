@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshiiraut/DSA_CPP/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshiiraut/DSA_CPP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
