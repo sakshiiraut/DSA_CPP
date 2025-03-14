@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sakshiiraut/DSA_CPP/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sakshiiraut/DSA_CPP/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sakshiiraut/DSA_CPP/tree/master/2649-count-total-number-of-colored-cells) |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
