@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sakshiiraut/DSA_CPP/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sakshiiraut/DSA_CPP/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sakshiiraut/DSA_CPP/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->
