@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/sakshiiraut/DSA_CPP/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/sakshiiraut/DSA_CPP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshiiraut/DSA_CPP/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshiiraut/DSA_CPP/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/sakshiiraut/DSA_CPP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
@@ -165,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2888-minimum-index-of-a-valid-split](https://github.com/sakshiiraut/DSA_CPP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sakshiiraut/DSA_CPP/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->
