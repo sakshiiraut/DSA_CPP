@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshiiraut/DSA_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/sakshiiraut/DSA_CPP/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/sakshiiraut/DSA_CPP/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sakshiiraut/DSA_CPP/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshiiraut/DSA_CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sakshiiraut/DSA_CPP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sakshiiraut/DSA_CPP/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
