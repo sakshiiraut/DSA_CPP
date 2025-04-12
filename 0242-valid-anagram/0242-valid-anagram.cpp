@@ -15,7 +15,7 @@ public:
         for(int i=0;i<t.size();i++){
             mt[t[i]]++;
         }
-       for (auto& p : mp) {
+       for (auto p : mp) {
             char ch = p.first;
             int count = p.second;
             if (mt[ch] != count) return false;
