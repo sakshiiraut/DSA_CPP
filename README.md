@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/sakshiiraut/DSA_CPP/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sakshiiraut/DSA_CPP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshiiraut/DSA_CPP/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sakshiiraut/DSA_CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sakshiiraut/DSA_CPP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshiiraut/DSA_CPP/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshiiraut/DSA_CPP/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshiiraut/DSA_CPP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/2551-apply-operations-to-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Matrix
 |  |
 | ------- |
