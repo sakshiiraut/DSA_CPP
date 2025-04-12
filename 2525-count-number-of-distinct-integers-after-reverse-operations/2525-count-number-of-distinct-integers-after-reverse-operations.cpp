@@ -13,9 +13,9 @@ public:
         unordered_set<int>s;
         int n=nums.size();
         for(int i=0;i<n;i++){
-            if(s.find(nums[i])==s.end())s.insert(nums[i]);
+            s.insert(nums[i]);
             int rev=reverseDigit(nums[i]);
-            if(s.find(rev)==s.end())s.insert(rev);
+            s.insert(rev);
         }
         return s.size();
     }
