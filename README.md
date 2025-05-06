@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sakshiiraut/DSA_CPP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1656-count-good-triplets](https://github.com/sakshiiraut/DSA_CPP/tree/master/1656-count-good-triplets) |
+| [2048-build-array-from-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshiiraut/DSA_CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshiiraut/DSA_CPP/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshiiraut/DSA_CPP/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshiiraut/DSA_CPP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/2551-apply-operations-to-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
