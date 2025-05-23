@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [1293-three-consecutive-odds](https://github.com/sakshiiraut/DSA_CPP/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sakshiiraut/DSA_CPP/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/sakshiiraut/DSA_CPP/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1656-count-good-triplets](https://github.com/sakshiiraut/DSA_CPP/tree/master/1656-count-good-triplets) |
 | [1983-maximum-population-year](https://github.com/sakshiiraut/DSA_CPP/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/2048-build-array-from-permutation) |
