@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/sakshiiraut/DSA_CPP/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sakshiiraut/DSA_CPP/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sakshiiraut/DSA_CPP/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/sakshiiraut/DSA_CPP/tree/master/0338-counting-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sakshiiraut/DSA_CPP/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshiiraut/DSA_CPP/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
