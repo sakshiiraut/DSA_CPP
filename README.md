@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/sakshiiraut/DSA_CPP/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshiiraut/DSA_CPP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/2551-apply-operations-to-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/sakshiiraut/DSA_CPP/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshiiraut/DSA_CPP/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -304,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sakshiiraut/DSA_CPP/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
