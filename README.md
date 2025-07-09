@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sakshiiraut/DSA_CPP/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sakshiiraut/DSA_CPP/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Tree
 |  |
 | ------- |
