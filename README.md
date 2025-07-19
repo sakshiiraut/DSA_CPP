@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/sakshiiraut/DSA_CPP/tree/master/0768-partition-labels) |
+| [1078-remove-outermost-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshiiraut/DSA_CPP/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshiiraut/DSA_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshiiraut/DSA_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sakshiiraut/DSA_CPP/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Simulation
