@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshiiraut/DSA_CPP/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshiiraut/DSA_CPP/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/sakshiiraut/DSA_CPP/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sakshiiraut/DSA_CPP/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2032-largest-odd-number-in-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshiiraut/DSA_CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sakshiiraut/DSA_CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sakshiiraut/DSA_CPP/tree/master/2610-closest-prime-numbers-in-range) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/sakshiiraut/DSA_CPP/tree/master/0768-partition-labels) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2032-largest-odd-number-in-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
