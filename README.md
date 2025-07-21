@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshiiraut/DSA_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshiiraut/DSA_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/sakshiiraut/DSA_CPP/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sakshiiraut/DSA_CPP/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sakshiiraut/DSA_CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -346,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sakshiiraut/DSA_CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sakshiiraut/DSA_CPP/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
