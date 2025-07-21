@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/sakshiiraut/DSA_CPP/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1656-count-good-triplets](https://github.com/sakshiiraut/DSA_CPP/tree/master/1656-count-good-triplets) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sakshiiraut/DSA_CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1983-maximum-population-year](https://github.com/sakshiiraut/DSA_CPP/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshiiraut/DSA_CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -176,10 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sakshiiraut/DSA_CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sakshiiraut/DSA_CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sakshiiraut/DSA_CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshiiraut/DSA_CPP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/2551-apply-operations-to-an-array) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sakshiiraut/DSA_CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
