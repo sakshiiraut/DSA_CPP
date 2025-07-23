@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sakshiiraut/DSA_CPP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshiiraut/DSA_CPP/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshiiraut/DSA_CPP/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sakshiiraut/DSA_CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiiraut/DSA_CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sakshiiraut/DSA_CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sakshiiraut/DSA_CPP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Simulation
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/sakshiiraut/DSA_CPP/tree/master/0768-partition-labels) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sakshiiraut/DSA_CPP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
