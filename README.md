@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sakshiiraut/DSA_CPP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sakshiiraut/DSA_CPP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sakshiiraut/DSA_CPP/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/sakshiiraut/DSA_CPP/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0209-minimum-size-subarray-sum) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sakshiiraut/DSA_CPP/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/sakshiiraut/DSA_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/sakshiiraut/DSA_CPP/tree/master/0338-counting-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2308-divide-array-into-equal-pairs) |
@@ -393,5 +395,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sakshiiraut/DSA_CPP/tree/master/0078-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sakshiiraut/DSA_CPP/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
