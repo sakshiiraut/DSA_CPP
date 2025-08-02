@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/sakshiiraut/DSA_CPP/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sakshiiraut/DSA_CPP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/sakshiiraut/DSA_CPP/tree/master/1656-count-good-triplets) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sakshiiraut/DSA_CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/sakshiiraut/DSA_CPP/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sakshiiraut/DSA_CPP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakshiiraut/DSA_CPP/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshiiraut/DSA_CPP/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sakshiiraut/DSA_CPP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakshiiraut/DSA_CPP/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1983-maximum-population-year](https://github.com/sakshiiraut/DSA_CPP/tree/master/1983-maximum-population-year) |
