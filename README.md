@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sakshiiraut/DSA_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1293-three-consecutive-odds](https://github.com/sakshiiraut/DSA_CPP/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sakshiiraut/DSA_CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sakshiiraut/DSA_CPP/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/sakshiiraut/DSA_CPP/tree/master/1500-count-largest-group) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sakshiiraut/DSA_CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sakshiiraut/DSA_CPP/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakshiiraut/DSA_CPP/tree/master/1777-determine-if-two-strings-are-close) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Monotonic Stack
 |  |
@@ -451,13 +455,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
