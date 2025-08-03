@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sakshiiraut/DSA_CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2689-rearranging-fruits](https://github.com/sakshiiraut/DSA_CPP/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/sakshiiraut/DSA_CPP/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sakshiiraut/DSA_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sakshiiraut/DSA_CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2689-rearranging-fruits](https://github.com/sakshiiraut/DSA_CPP/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sakshiiraut/DSA_CPP/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sakshiiraut/DSA_CPP/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakshiiraut/DSA_CPP/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshiiraut/DSA_CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2689-rearranging-fruits](https://github.com/sakshiiraut/DSA_CPP/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sakshiiraut/DSA_CPP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/3321-type-of-triangle) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sakshiiraut/DSA_CPP/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshiiraut/DSA_CPP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2689-rearranging-fruits](https://github.com/sakshiiraut/DSA_CPP/tree/master/2689-rearranging-fruits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sakshiiraut/DSA_CPP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
