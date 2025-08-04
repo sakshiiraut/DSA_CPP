@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/sakshiiraut/DSA_CPP/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sakshiiraut/DSA_CPP/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sakshiiraut/DSA_CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1829-maximum-units-on-a-truck](https://github.com/sakshiiraut/DSA_CPP/tree/master/1829-maximum-units-on-a-truck) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1983-maximum-population-year](https://github.com/sakshiiraut/DSA_CPP/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/2048-build-array-from-permutation) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sakshiiraut/DSA_CPP/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakshiiraut/DSA_CPP/tree/master/1777-determine-if-two-strings-are-close) |
+| [1829-maximum-units-on-a-truck](https://github.com/sakshiiraut/DSA_CPP/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshiiraut/DSA_CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2689-rearranging-fruits](https://github.com/sakshiiraut/DSA_CPP/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sakshiiraut/DSA_CPP/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sakshiiraut/DSA_CPP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshiiraut/DSA_CPP/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1829-maximum-units-on-a-truck](https://github.com/sakshiiraut/DSA_CPP/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/sakshiiraut/DSA_CPP/tree/master/2689-rearranging-fruits) |
