@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sakshiiraut/DSA_CPP/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/sakshiiraut/DSA_CPP/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/sakshiiraut/DSA_CPP/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshiiraut/DSA_CPP/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sakshiiraut/DSA_CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/sakshiiraut/DSA_CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/sakshiiraut/DSA_CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/sakshiiraut/DSA_CPP/tree/master/1127-last-stone-weight) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sakshiiraut/DSA_CPP/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/sakshiiraut/DSA_CPP/tree/master/0295-find-median-from-data-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -472,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sakshiiraut/DSA_CPP/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
