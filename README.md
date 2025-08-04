@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/sakshiiraut/DSA_CPP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1127-last-stone-weight](https://github.com/sakshiiraut/DSA_CPP/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/sakshiiraut/DSA_CPP/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sakshiiraut/DSA_CPP/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sakshiiraut/DSA_CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/sakshiiraut/DSA_CPP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sakshiiraut/DSA_CPP/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakshiiraut/DSA_CPP/tree/master/1777-determine-if-two-strings-are-close) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/sakshiiraut/DSA_CPP/tree/master/0768-partition-labels) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/sakshiiraut/DSA_CPP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshiiraut/DSA_CPP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/2032-largest-odd-number-in-string) |
