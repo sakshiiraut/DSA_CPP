@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/sakshiiraut/DSA_CPP/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/sakshiiraut/DSA_CPP/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/sakshiiraut/DSA_CPP/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sakshiiraut/DSA_CPP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1127-last-stone-weight](https://github.com/sakshiiraut/DSA_CPP/tree/master/1127-last-stone-weight) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sakshiiraut/DSA_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/sakshiiraut/DSA_CPP/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/sakshiiraut/DSA_CPP/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/sakshiiraut/DSA_CPP/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/sakshiiraut/DSA_CPP/tree/master/1500-count-largest-group) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0209-minimum-size-subarray-sum) |
+| [0940-fruit-into-baskets](https://github.com/sakshiiraut/DSA_CPP/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakshiiraut/DSA_CPP/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
