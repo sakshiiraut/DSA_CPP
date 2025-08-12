@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sakshiiraut/DSA_CPP/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sakshiiraut/DSA_CPP/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
