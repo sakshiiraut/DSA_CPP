@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sakshiiraut/DSA_CPP/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sakshiiraut/DSA_CPP/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/sakshiiraut/DSA_CPP/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sakshiiraut/DSA_CPP/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sakshiiraut/DSA_CPP/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sakshiiraut/DSA_CPP/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakshiiraut/DSA_CPP/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
