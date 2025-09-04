@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/sakshiiraut/DSA_CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sakshiiraut/DSA_CPP/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sakshiiraut/DSA_CPP/tree/master/0326-power-of-three) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sakshiiraut/DSA_CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sakshiiraut/DSA_CPP/tree/master/0152-maximum-product-subarray) |
@@ -552,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/sakshiiraut/DSA_CPP/tree/master/0867-new-21-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sakshiiraut/DSA_CPP/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
