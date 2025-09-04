@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sakshiiraut/DSA_CPP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sakshiiraut/DSA_CPP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sakshiiraut/DSA_CPP/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/sakshiiraut/DSA_CPP/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0084-largest-rectangle-in-histogram) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/0063-unique-paths-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sakshiiraut/DSA_CPP/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshiiraut/DSA_CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sakshiiraut/DSA_CPP/tree/master/3227-find-missing-and-repeated-values) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sakshiiraut/DSA_CPP/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sakshiiraut/DSA_CPP/tree/master/0152-maximum-product-subarray) |
