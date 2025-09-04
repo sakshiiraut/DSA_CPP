@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sakshiiraut/DSA_CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sakshiiraut/DSA_CPP/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/sakshiiraut/DSA_CPP/tree/master/0198-house-robber) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sakshiiraut/DSA_CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sakshiiraut/DSA_CPP/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sakshiiraut/DSA_CPP/tree/master/0338-counting-bits) |
