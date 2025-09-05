@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sakshiiraut/DSA_CPP/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1415-students-and-examinations](https://github.com/sakshiiraut/DSA_CPP/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sakshiiraut/DSA_CPP/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/sakshiiraut/DSA_CPP/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/sakshiiraut/DSA_CPP/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sakshiiraut/DSA_CPP/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/sakshiiraut/DSA_CPP/tree/master/2087-confirmation-rate) |
