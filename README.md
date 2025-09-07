@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sakshiiraut/DSA_CPP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sakshiiraut/DSA_CPP/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sakshiiraut/DSA_CPP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sakshiiraut/DSA_CPP/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/sakshiiraut/DSA_CPP/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/sakshiiraut/DSA_CPP/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sakshiiraut/DSA_CPP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/sakshiiraut/DSA_CPP/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sakshiiraut/DSA_CPP/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
