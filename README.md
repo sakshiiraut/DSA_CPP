@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sakshiiraut/DSA_CPP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sakshiiraut/DSA_CPP/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sakshiiraut/DSA_CPP/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sakshiiraut/DSA_CPP/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakshiiraut/DSA_CPP/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sakshiiraut/DSA_CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshiiraut/DSA_CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sakshiiraut/DSA_CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sakshiiraut/DSA_CPP/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sakshiiraut/DSA_CPP/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sakshiiraut/DSA_CPP/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/sakshiiraut/DSA_CPP/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/sakshiiraut/DSA_CPP/tree/master/0867-new-21-game) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sakshiiraut/DSA_CPP/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sakshiiraut/DSA_CPP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakshiiraut/DSA_CPP/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshiiraut/DSA_CPP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sakshiiraut/DSA_CPP/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/sakshiiraut/DSA_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sakshiiraut/DSA_CPP/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sakshiiraut/DSA_CPP/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakshiiraut/DSA_CPP/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakshiiraut/DSA_CPP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sakshiiraut/DSA_CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/sakshiiraut/DSA_CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sakshiiraut/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/sakshiiraut/DSA_CPP/tree/master/0917-boats-to-save-people) |
