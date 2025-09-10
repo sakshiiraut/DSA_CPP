@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sakshiiraut/DSA_CPP/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/sakshiiraut/DSA_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sakshiiraut/DSA_CPP/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sakshiiraut/DSA_CPP/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sakshiiraut/DSA_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sakshiiraut/DSA_CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sakshiiraut/DSA_CPP/tree/master/0268-missing-number) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sakshiiraut/DSA_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshiiraut/DSA_CPP/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshiiraut/DSA_CPP/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
