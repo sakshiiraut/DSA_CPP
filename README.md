@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshiiraut/DSA_CPP/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sakshiiraut/DSA_CPP/tree/master/0035-search-insert-position) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshiiraut/DSA_CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sakshiiraut/DSA_CPP/tree/master/0234-palindrome-linked-list) |
