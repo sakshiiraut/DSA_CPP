@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshiiraut/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/sakshiiraut/DSA_CPP/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sakshiiraut/DSA_CPP/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/sakshiiraut/DSA_CPP/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sakshiiraut/DSA_CPP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0344-reverse-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshiiraut/DSA_CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshiiraut/DSA_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sakshiiraut/DSA_CPP/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/sakshiiraut/DSA_CPP/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshiiraut/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sakshiiraut/DSA_CPP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sakshiiraut/DSA_CPP/tree/master/0283-move-zeroes) |
